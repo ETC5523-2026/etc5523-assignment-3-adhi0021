@@ -1,12 +1,27 @@
 ---
-title: "Welcome To My Blog Template"
-author: "Emi Tanaka"
-date: "2022-07-18"
-categories: [news]
+title: "Quantifying Climate-Driven Australian Bushfires"
+author: "Aryaman Dhindsa"
+date: "10-11-2026"
+categories: [Trends, Climate, Summaries]
+image: "Image-bush.jpg"
+toc: true
 ---
 
-This is the first post in a Quarto blog. Welcome!
+## Introduction
 
-![](thumbnail.jpg)
+Australia's fire seasons have generated intense discussion in recent years...
 
+## The Data on Climate Trends
 
+::: {.callout-note}
+### Key Insight
+Data shows an increasing frequency of high fire danger days across southern Australia.
+:::
+
+## Conclusion & Summary
+
+Understanding the interplay between natural cycles and long-term climate shifts is critical...
+
+---
+
+*Enjoyed this analysis? Check out my [About Page](../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*

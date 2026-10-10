@@ -10,8 +10,5 @@ website:
         href: https://github.com/adhi0021
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
-
-
-

@@ -5,6 +5,7 @@
   --title-bg: #81B29A;
   --accent-terracotta: #E07A5F;
   --accent-sand: #F2CC8F;
+  --header-bg:var(--title-bg)
 }
 
 /* Base Body Styling */
@@ -65,4 +66,19 @@ h1, h2, h3, h4, h5, h6 {
   padding: 1.25rem;
   border-radius: 8px;
   color: var(--text-main);
+}
+
+img {
+    border-radius: 2.5px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+
+.quarto-title-banner {
+        padding-top: 2em;
+        padding-bottom: 2em;
+        background-color: #81B29A;
+    }
+.quarto-categories {
+      color: #3D405B;
+
 }

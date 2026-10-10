@@ -1,5 +1,8 @@
 ---
-title: "Quantifying Climate-Driven Australian Bushfires"
+title: "Why bushfires are more common now?"
+subtitle: "Climate change vs. natural weather variability in Australian bushfire trends"
+title-block-banner: "#81B29A"
+title-block-banner-color: "#FFFFFF"
 listing:
   contents: posts
   sort: "date desc"
@@ -8,7 +11,4 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
-
-
