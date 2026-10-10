@@ -1,13 +1,84 @@
 ---
 title: "About"
-image: profile.jpg
+image: "Images/profile-aryaman.jpeg"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/adhi0021
+
+---
+<style>
+  img {
+    border-radius: 22.5%; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+</style>
+
+::: {.index-hero-title}
+# Aryaman Dhindsa
+::: {.subtitle}
+Master of Business Analytics Student | Monash University
+:::
+:::
+
+[LinkedIn](https://linkedin.com/in/aryaman-dhindsa) | [GitHub](https://github.com/aryamandhindsa010) | Melbourne, VIC | +61 450 213 135 | aryamandhindsa@gmail.com
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+## Professional Summary
+
+Detail-oriented Business Analyst and Monash Master's student with a solid foundation in Computer Science and Data Management. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments.
+
+---
+
+## Education
+
+**Master of Business Analytics** | Monash University (Clayton Campus)  
+*2026 – 2028*
+
+**Bachelor in Physical Science with Computer Science** | University of Delhi  
+*2021 – 2024*
+## Core Skills
+
+::: {.sidebar-box}
+* **Technical:** R, SQL, Power BI, Advanced Excel, Git/GitHub, Statistical Data Analysis
+* **Analytical & Consulting:** Business Intelligence, Data Preprocessing, Process Optimization, Quantitative Analysis
+* **Professional & Interpersonal:** Project Management, Stakeholder Engagement, Team Collaboration, Strategic Communication
+:::
+
+---
+
+## Professional Experience
+
+### Casual Customer Support Team Member
+**Coles Supermarket** | Mentone, VIC  
+*May 2026 – Present*
+
+* Delivered responsive customer service and resolved shopper inquiries in high-volume retail environments.
+* Managed front-end Assisted Checkout (ACO) operations and maintained visual merchandising standards.
+
+### Part-Time Teacher
+**H.C.M. Inter College** | India  
+*Dec 2024 – Nov 2025*
+
+* Taught Computer Science while managing data operations and administrative tasks.
+* Provided academic planning and career counselling for senior secondary students.
+
+---
+
+## Leadership & Volunteering
+
+### Project Team Head
+**Enactus Rajdhani** | India  
+*Sept 2023 – Mar 2024*
+
+* Led a cross-functional team in manufacturing and launching sustainable products on deadline.
+* Adapted product strategy based on real-time customer feedback analysis[cite: 2].
+
+### Virtual Anchor & Event Host
+**ANN-2024, University of Delhi**  
+*20 Dec 2024 – 21 Dec 2024*
+
+* Hosted and anchored the 1st National Conference on Advances in Nanomaterials and Nanotechnology (ANN-2024), facilitating multi-day technical sessions.

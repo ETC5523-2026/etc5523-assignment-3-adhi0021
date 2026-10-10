@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantifying Climate-Driven Australian Bushfires",
+    "section": "",
+    "text": "Welcome To My Blog Template\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 18, 2022\n\n\nEmi Tanaka\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a blog template for the ETC5523 Communicating with Data assessment at Monash University."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog Template",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!"
+  },
+  {
+    "objectID": "about.html#professional-summary",
+    "href": "about.html#professional-summary",
+    "title": "About",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nDetail-oriented Business Analyst and Monash Master’s student with a solid foundation in Computer Science and Data Management[cite: 2]. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization[cite: 2]. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nMaster of Business Analytics | Monash University (Clayton Campus)\n2026 – 2028\nBachelor in Physical Science with Computer Science | University of Delhi\n2021 – 2024 ## Core Skills\n\n\nTechnical: R, SQL, Power BI, Advanced Excel, Git/GitHub, Statistical Data Analysis\nAnalytical & Consulting: Business Intelligence, Data Preprocessing, Process Optimization, Quantitative Analysis\nProfessional & Interpersonal: Project Management, Stakeholder Engagement, Team Collaboration, Strategic Communication"
+  },
+  {
+    "objectID": "about.html#core-skills",
+    "href": "about.html#core-skills",
+    "title": "About",
+    "section": "Core Skills",
+    "text": "Core Skills\n\n\nTechnical: R, SQL, Power BI, Advanced Excel, Git/GitHub, Statistical Data Analysis[cite: 2]\nAnalytical & Consulting: Business Intelligence, Data Preprocessing, Process Optimization, Quantitative Analysis[cite: 2]\nProfessional & Interpersonal: Project Management, Stakeholder Engagement, Team Collaboration, Strategic Communication[cite: 2]"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nCasual Customer Support Team Member\nColes Supermarket | Mentone, VIC\nMay 2026 – Present\n\nDelivered responsive customer service and resolved shopper inquiries in high-volume retail environments.\nManaged front-end Assisted Checkout (ACO) operations and maintained visual merchandising standards.\n\n\n\nPart-Time Teacher\nH.C.M. Inter College | India\nDec 2024 – Nov 2025\n\nTaught Computer Science while managing data operations and administrative tasks.\nProvided academic planning and career counselling for senior secondary students."
+  },
+  {
+    "objectID": "about.html#leadership-volunteering",
+    "href": "about.html#leadership-volunteering",
+    "title": "About",
+    "section": "Leadership & Volunteering",
+    "text": "Leadership & Volunteering\n\nProject Team Head\nEnactus Rajdhani | India\nSept 2023 – Mar 2024\n\nLed a cross-functional team in manufacturing and launching sustainable products on deadline[cite: 2].\nAdapted product strategy based on real-time customer feedback analysis[cite: 2].\n\n\n\nVirtual Anchor & Event Host\nANN-2024, University of Delhi\n20 Dec 2024 – 21 Dec 2024\n\nHosted and anchored the 1st National Conference on Advances in Nanomaterials and Nanotechnology (ANN-2024), facilitating multi-day technical sessions."
+  }
+]
