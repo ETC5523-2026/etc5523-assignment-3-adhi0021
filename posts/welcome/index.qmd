@@ -94,4 +94,4 @@ Looking forward to a future climate $2^\circ\text{C}$ above pre-industrial level
 
 The packages  *tibble* by @tibble and *gt* by @gt are used to make this blog.
 
-*Enjoyed this analysis? Check out my [About Page](../../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*
+*Enjoyed this analysis? follow me on [GitHub](https://github.com/adhi0021)!*
