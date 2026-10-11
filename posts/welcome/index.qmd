@@ -7,10 +7,11 @@ image: "Image-bush.jpg"
 toc: true
 bibliography: references.bib
 tbl-cap-location: bottom
+fig-cap-location: bottom
 ---
 
 
-## The Horizon Is Turning Red: Framing the Black Summer Crisis
+## The Horizon Is Turning Red: Framing the Black Summer Crisis {#sec-description}
 
 During the 2019/20 Austral spring and summer, southeastern Australia experienced an unprecedented fire crisis known as the "Black Summer". Across the temperate forest ecosystems stretching throughout southeast Australia catastrophic bushfires burned over 19.4 million hectares of land. Dense smoke plumes shrouded major cities, elevating atmospheric fine particulate matter ($\text{PM}_{2.5}$) to hazardous levels and triggering a 34% spike in emergency room admissions for severe respiratory distress.
 ```{r}
@@ -18,8 +19,7 @@ During the 2019/20 Austral spring and summer, southeastern Australia experienced
 #| message: false
 #| error: false
 #| label: tbl-crisis-loss
-#| fig-cap: "Emergency Department & DISASTER PHILANTHROPY records." 
-#| fig-cap-location: top
+#| tbl-cap: "Emergency Department & DISASTER PHILANTHROPY records. Source: van Oldenborgh et al. (2021)" 
 
 library(tibble)
 library(gt)
@@ -40,7 +40,7 @@ compound_crisis_tbl
 
 ```
 
-The severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in @tbl-crisis-loss {@Oldenborgh2021} along with recorded losses. The year 2019 recorded Australia's highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.
+The severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in @tbl-crisis-loss [@Oldenborgh2021] along with recorded losses. The year 2019 recorded Australia's highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.
 
 While fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: 
 
@@ -64,20 +64,33 @@ Across 11 large climate model ensembles, human-induced climate change has elevat
 Notably, neither long-term observations nor climate models show a statistically significant attributable anthropogenic trend in meteorological drought extremes—whether evaluated over annual scales or during the driest month of the fire season.
 
 ### The Overlaid Precondition of Natural Climate Modes:
-Anthropogenic warming did not act in isolation. Approximately two-thirds of the acute July–December 2019 rainfall deficit was driven by a rare, concurrent alignment of two dominant internal variability modes: a record positive Indian Ocean Dipole (pIOD) and a strongly negative Southern Annular Mode (nSAM), both of which suppress precipitation across southeastern Australia.
+Anthropogenic warming did not act in isolation. As shown in the @fig-dip-sam Approximately two-thirds of the acute July–December 2019 rainfall deficit was driven by a rare, concurrent alignment of two dominant internal variability modes: a record positive Indian Ocean Dipole (pIOD) and a strongly negative Southern Annular Mode (nSAM), both of which suppress precipitation across southeastern Australia.
 
+::: {.no-border}
+```{r}
+#| echo: false
+#| label: fig-dip-sam
+#| fig-cap: "Approximate contributions of the Indian Ocean Dipole (~33%) and Southern Annular Mode (~33%) to the July–December 2019 rainfall deficit across southeastern Australia. Source: van Oldenborgh et al. (2021)"
+knitr::include_graphics("dipole-sam.png")
+```
+:::
+
+## Limitation of the analysis
 A critical insight from the attribution analysis lies in systematic climate model deficiencies. Across the evaluated ensembles, models consistently overstate temperature variability ($\sigma/\mu$) while underestimating the magnitude of observed multi-decadal warming trends in extreme maximum temperatures. Because models under-simulate extreme heat trends, the multi-model consensus of a 30% increase in fire weather risk represents a highly conservative lower bound; the real-world anthropogenic contribution to Australia's burning skies is likely substantially higher.
 
 ## Living on a Changing Continent
 
-Understanding the true drivers of these fires isn't just an academic exercise—it is critical for survival and land management. The data confirms that while natural cycles will always bring dry spells, underlying climate trends are amplifying their severity. Adapting to this reality means re-evaluating our relationship with the land, refining our predictive models, and building resilience for the seasons ahead.
+Returning to the primary inquiry posed in the @sec-description, the 2019/20 "Black Summer" bushfire season was a compound extreme event where anthropogenic climate change and extreme natural variability converged[cite: 5, 6]. Human-induced global warming provided the thermodynamic fuel by doubling the likelihood of extreme heat waves and increasing overall fire weather risk by at least 30%. Simultaneously, natural climate modes (pIOD and nSAM) delivered the localized precipitation deficit.
 
-### After effects of these events
+### A new Common
+Looking forward to a future climate $2^\circ\text{C}$ above pre-industrial levels, climate models project that fire weather conditions as severe as 2019/20 will become **at least 4 times more likely** @Oldenborgh2021. While Australia maintains world-class emergency preparedness systems, rising baseline temperatures severely restrict the safe seasonal weather windows available to conduct prescribed hazard-reduction burning. Adapting to an increasingly flammable continent requires moving beyond historical baselines and acknowledging the growing human footprint on extreme climate events
 
 
 ## References
 :::{#refs}
 
 :::
+
+The packages @tibble and @gt are used to make this blog.
 
 *Enjoyed this analysis? Check out my [About Page](../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*

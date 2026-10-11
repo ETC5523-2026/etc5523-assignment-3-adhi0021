@@ -134,3 +134,7 @@ div.callout-note.callout {
   border-bottom: 2px solid #E07A5F !important;
   background-color: #3D405B !important;
 }
+
+.no-border img {
+  border-radius: 0 !important; /* Optional: resets squircle radius if desired */
+}
