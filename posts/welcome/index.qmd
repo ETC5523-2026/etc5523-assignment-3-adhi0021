@@ -6,6 +6,7 @@ categories: [Trends, Climate, Summaries]
 image: "Image-bush.jpg"
 toc: true
 bibliography: references.bib
+tbl-cap-location: bottom
 ---
 
 
@@ -17,6 +18,8 @@ During the 2019/20 Austral spring and summer, southeastern Australia experienced
 #| message: false
 #| error: false
 #| label: tbl-crisis-loss
+#| fig-cap: "Emergency Department & DISASTER PHILANTHROPY records." 
+#| fig-cap-location: top
 
 library(tibble)
 library(gt)
@@ -31,25 +34,19 @@ compound_crisis_tbl <- tribble(
     tab_header(
     title = md("**THE 2019/20 COMPOUND CRISIS**"),
     subtitle = "Key impact metrics across southeastern Australia"
-  ) |> tab_source_note(
-    source_note = glue::glue("*Source:* {@Oldenborgh2021}; Emergency Department & DISASTER PHILANTHROPY records.")
-  ) %>%
-  # 2. FORCE STYLING ON SOURCE NOTE TO PREVENT INVISIBILITY
-  tab_style(
-    style = list(
-      cell_text(color = "#3D405B", size = px(12), style = "italic"),
-      cell_fill(color = "#F2CC8F")
-    ),
-    locations = cells_source_notes()
   )
 # Display the table
 compound_crisis_tbl 
 
 ```
 
-The severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in @tbl-crisis-loss along with recorded losses. The year 2019 recorded Australia's highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.
+The severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in @tbl-crisis-loss {@Oldenborgh2021} along with recorded losses. The year 2019 recorded Australia's highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.
 
-While fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability? Isolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain.
+While fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: 
+
+*To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability?*
+
+Isolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain.
 
 ## Decoding the Signal in the Smoke
 
