@@ -1,6 +1,6 @@
 ---
-title: "Why bushfires are more common now?"
-subtitle: "Climate change vs. natural weather variability in Australian bushfire trends"
+title: "A Changing Climate or Ancient Cycles?"
+subtitle: "Decoding the data behind Australia's fiercest bushfire seasons."
 title-block-banner: "#81B29A"
 title-block-banner-color: "#FFFFFF"
 listing:

@@ -82,3 +82,11 @@ img {
       color: #3D405B;
 
 }
+.callout.callout-titled>.callout-header {
+    padding-top: .2em;
+    margin-bottom: -0.2em;
+    background-color: darksalmon !important;
+}
+div.callout-note.callout {
+    border-left-color: #3D405B;
+}

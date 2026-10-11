@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Climate-Driven Australian Bushfires"
+title: "Ashes in the Wind: Why Australia’s Skies Keep Burning"
 author: "Aryaman Dhindsa"
 date: "10-11-2026"
 categories: [Trends, Climate, Summaries]
@@ -7,21 +7,17 @@ image: "Image-bush.jpg"
 toc: true
 ---
 
-## Introduction
 
-Australia's fire seasons have generated intense discussion in recent years...
+## The Horizon Is Turning Red
 
-## The Data on Climate Trends
+When smoke settles over the continent, it feels as though our summers are being rewritten. The bushfire seasons of recent years haven't just felt hotter—they've felt longer, unyielding, and unpredictable. But is this apocalyptic visual the new baseline of a changing climate, or are we simply witnessing the harsh peaks of Australia's ancient, natural weather cycles?
 
-::: {.callout-note}
-### Key Insight
-Data shows an increasing frequency of high fire danger days across southern Australia.
-:::
+## Decoding the Signal in the Smoke
 
-## Conclusion & Summary
+Stripping away the noise requires looking at decades of historical weather observations, ocean oscillations, and regional temperature anomalies. When we place long-term climate trends alongside localized weather events, clear patterns emerge. The data reveals how shifts in global ocean drivers interact with drying soil profiles, turning routine seasonal variability into unprecedented fire weather across southern Australia.
 
-Understanding the interplay between natural cycles and long-term climate shifts is critical...
+## Living on a Changing Continent
 
----
+Understanding the true drivers of these fires isn't just an academic exercise—it is critical for survival and land management. The data confirms that while natural cycles will always bring dry spells, underlying climate trends are amplifying their severity. Adapting to this reality means re-evaluating our relationship with the land, refining our predictive models, and building resilience for the seasons ahead.
 
 *Enjoyed this analysis? Check out my [About Page](../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*
