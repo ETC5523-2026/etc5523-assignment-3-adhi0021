@@ -44,7 +44,7 @@ The severity of the event was underpinned by compounding climatic extremes, impa
 
 While fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: 
 
-*To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability?*
+**To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability?**
 
 Isolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain.
 
@@ -81,10 +81,10 @@ A critical insight from the attribution analysis lies in systematic climate mode
 
 ## Living on a Changing Continent
 
-Returning to the primary inquiry posed in the @sec-description, the 2019/20 "Black Summer" bushfire season was a compound extreme event where anthropogenic climate change and extreme natural variability converged[cite: 5, 6]. Human-induced global warming provided the thermodynamic fuel by doubling the likelihood of extreme heat waves and increasing overall fire weather risk by at least 30%. Simultaneously, natural climate modes (pIOD and nSAM) delivered the localized precipitation deficit.
+Returning to the primary inquiry posed in the @sec-description, the 2019/20 "Black Summer" bushfire season was a compound extreme event where anthropogenic climate change and extreme natural variability converged. Human-induced global warming provided the thermodynamic fuel by doubling the likelihood of extreme heat waves and increasing overall fire weather risk by at least 30%. Simultaneously, natural climate modes (pIOD and nSAM) delivered the localized precipitation deficit.
 
 ### A new Common
-Looking forward to a future climate $2^\circ\text{C}$ above pre-industrial levels, climate models project that fire weather conditions as severe as 2019/20 will become **at least 4 times more likely** @Oldenborgh2021. While Australia maintains world-class emergency preparedness systems, rising baseline temperatures severely restrict the safe seasonal weather windows available to conduct prescribed hazard-reduction burning. Adapting to an increasingly flammable continent requires moving beyond historical baselines and acknowledging the growing human footprint on extreme climate events
+Looking forward to a future climate $2^\circ\text{C}$ above pre-industrial levels, climate models project that fire weather conditions as severe as 2019/20 will become **at least 4 times more likely** (@Oldenborgh2021). While Australia maintains world-class emergency preparedness systems, rising baseline temperatures severely restrict the safe seasonal weather windows available to conduct prescribed hazard-reduction burning. Adapting to an increasingly flammable continent requires moving beyond historical baselines and acknowledging the growing human footprint on extreme climate events
 
 
 ## References
@@ -92,6 +92,6 @@ Looking forward to a future climate $2^\circ\text{C}$ above pre-industrial level
 
 :::
 
-The packages @tibble and @gt are used to make this blog.
+The packages  *tibble* by @tibble and *gt* by @gt are used to make this blog.
 
 *Enjoyed this analysis? Check out my [About Page](../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*
