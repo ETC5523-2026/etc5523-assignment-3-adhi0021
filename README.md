@@ -9,5 +9,6 @@
 
 ## AI Declaration
 1. Used AI to clear queries regarding blog format and template and to help me with idea generation.
-
 2. Intensive use of AI to help me with CSS and gt codes. 
+
+The AI used here is Gemini :).
