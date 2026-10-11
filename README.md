@@ -8,6 +8,6 @@
 ---
 
 ## AI Declaration
-I used AI to clear queries regarding blog format and template and to help me with idea generation.
+1. Used AI to clear queries regarding blog format and template and to help me with idea generation.
 
-I also used AI to help me with CSS and gt codes. 
+2. Intensive use of AI to help me with CSS and gt codes. 
