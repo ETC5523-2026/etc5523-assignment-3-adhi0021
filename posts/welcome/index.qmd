@@ -71,6 +71,7 @@ Anthropogenic warming did not act in isolation. As shown in the @fig-dip-sam App
 #| echo: false
 #| label: fig-dip-sam
 #| fig-cap: "Approximate contributions of the Indian Ocean Dipole (~33%) and Southern Annular Mode (~33%) to the July–December 2019 rainfall deficit across southeastern Australia. Source: van Oldenborgh et al. (2021)"
+
 knitr::include_graphics("dipole-sam.png")
 ```
 :::

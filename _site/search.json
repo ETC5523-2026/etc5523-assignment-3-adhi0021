@@ -1,122 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "A Changing Climate or Ancient Cycles?",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Aryaman Dhindsa\n\nMaster of Business Analytics Student\n\n\nMonash University, Melbourne, VIC\n\nDetail-oriented Business Analyst and a student at Monash University with a solid foundation in Computer Science and Data Management. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments.\nI have a keen understanding in creating data piplelines and data exploration with a great understanding in statistics foundational topics. Leading projects and exploring new ideas in a broad variety of subjects is my hobby."
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
     "section": "",
     "text": "During the 2019/20 Austral spring and summer, southeastern Australia experienced an unprecedented fire crisis known as the “Black Summer”. Across the temperate forest ecosystems stretching throughout southeast Australia catastrophic bushfires burned over 19.4 million hectares of land. Dense smoke plumes shrouded major cities, elevating atmospheric fine particulate matter (\\(\\text{PM}_{2.5}\\)) to hazardous levels and triggering a 34% spike in emergency room admissions for severe respiratory distress.\n\n\n\n\n\n\n\n\n\n\n\nTHE 2019/20 COMPOUND CRISIS\n\n\nKey impact metrics across southeastern Australia\n\n\nImpact Dimension\nRecorded Statistic\n\n\n\n\nOperational Domain\nSoutheastern Australia (29°S–40°S, 144°E–155°E)\n\n\nTotal Area Burned\n&gt; 19.4 Million Hectares\n\n\nDirect Fatalities\n34 Lives Lost\n\n\nInfrastructure Impact\n~5,900 Structures Destroyed\n\n\nPublic Health Acute Peak\n+34% Emergency Visits (Respiratory/Asthma)\n\n\n\n\n\n\n\n\nTable 1: Emergency Department & DISASTER PHILANTHROPY records.\n\n\n\n\nThe severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in Table 1 along with recorded losses. The year 2019 recorded Australia’s highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.\nWhile fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question:\nTo what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability?\nIsolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain."
-  },
-  {
-    "objectID": "about.html#professional-summary",
-    "href": "about.html#professional-summary",
-    "title": "About",
-    "section": "Professional Summary",
-    "text": "Professional Summary\nDetail-oriented Business Analyst and Monash Master’s student with a solid foundation in Computer Science and Data Management. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\nMaster of Business Analytics | Monash University\n2026 – 2028\nBachelor in Physical Science with Computer Science | University of Delhi\n2021 – 2024\nSt. Mary’s Convent School | India\n2007-2021"
-  },
-  {
-    "objectID": "about.html#core-skills",
-    "href": "about.html#core-skills",
-    "title": "About",
-    "section": "Core Skills",
-    "text": "Core Skills\n\n\nTechnical: R, SQL, Power BI, Advanced Excel, Git/GitHub, Statistical Data Analysis\nAnalytical & Consulting: Business Intelligence, Data Preprocessing, Process Optimization, Quantitative Analysis\nProfessional & Interpersonal: Project Management, Stakeholder Engagement, Team Collaboration, Strategic Communication"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "About",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nCasual Customer Support Team Member\nColes Supermarket | Mentone, VIC\nMay 2026 – Present\n\nDelivered responsive customer service and resolved shopper inquiries in high-volume retail environments.\nManaged front-end Assisted Checkout (ACO) operations and maintained visual merchandising standards.\n\n\n\nPart-Time Teacher\nH.C.M. Inter College | India\nDec 2024 – Nov 2025\n\nTaught Computer Science while managing data operations and administrative tasks.\nProvided academic planning and career counselling for senior secondary students."
-  },
-  {
-    "objectID": "about.html#leadership-volunteering",
-    "href": "about.html#leadership-volunteering",
-    "title": "About",
-    "section": "Leadership & Volunteering",
-    "text": "Leadership & Volunteering\n\nProject Team Head\nEnactus Rajdhani | India\nSept 2023 – Mar 2024\n\nLed a cross-functional team in manufacturing and launching sustainable products on deadline.\nAdapted product strategy based on real-time customer feedback analysis[cite: 2].\n\n\n\nVirtual Anchor & Event Host\nANN-2024, University of Delhi\n20 Dec 2024 – 21 Dec 2024\n\nHosted and anchored the 1st National Conference on Advances in Nanomaterials and Nanotechnology (ANN-2024), facilitating multi-day technical sessions."
-  },
-  {
-    "objectID": "index.html#hello",
-    "href": "index.html#hello",
-    "title": "Quantifying Climate-Driven Australian Bushfires",
-    "section": "",
-    "text": "vasbdkjvbakv\nvlkanl nlq\nv kajd lda ; d adlk ndl ;ad n nald nldna"
-  },
-  {
-    "objectID": "posts/welcome/index.html#introduction",
-    "href": "posts/welcome/index.html#introduction",
-    "title": "Quantifying Climate-Driven Australian Bushfires",
-    "section": "",
-    "text": "Australia’s fire seasons have generated intense discussion in recent years…"
-  },
-  {
-    "objectID": "posts/welcome/index.html#the-data-on-climate-trends",
-    "href": "posts/welcome/index.html#the-data-on-climate-trends",
-    "title": "Quantifying Climate-Driven Australian Bushfires",
-    "section": "The Data on Climate Trends",
-    "text": "The Data on Climate Trends\n\n\n\n\n\n\nNoteKey Insight\n\n\n\nData shows an increasing frequency of high fire danger days across southern Australia."
-  },
-  {
-    "objectID": "posts/welcome/index.html#conclusion-summary",
-    "href": "posts/welcome/index.html#conclusion-summary",
-    "title": "Quantifying Climate-Driven Australian Bushfires",
-    "section": "Conclusion & Summary",
-    "text": "Conclusion & Summary\nUnderstanding the interplay between natural cycles and long-term climate shifts is critical…\n\nEnjoyed this analysis? Check out my About Page or follow me on GitHub!"
-  },
-  {
-    "objectID": "posts/welcome/index.html#the-horizon-is-turning-red",
-    "href": "posts/welcome/index.html#the-horizon-is-turning-red",
-    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
-    "section": "",
-    "text": "When smoke settles over the continent, it feels as though our summers are being rewritten. The bushfire seasons of recent years haven’t just felt hotter—they’ve felt longer, unyielding, and unpredictable. But is this apocalyptic visual the new baseline of a changing climate, or are we simply witnessing the harsh peaks of Australia’s ancient, natural weather cycles?"
-  },
-  {
-    "objectID": "posts/welcome/index.html#decoding-the-signal-in-the-smoke",
-    "href": "posts/welcome/index.html#decoding-the-signal-in-the-smoke",
-    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
-    "section": "Decoding the Signal in the Smoke",
-    "text": "Decoding the Signal in the Smoke\nSeparating the signal of human-induced warming from the background noise of natural climate variability requires a rigorous, multi-step extreme event attribution protocol. To evaluate weather-induced fire risk, atmospheric scientists look beyond single-day fire behavior and turn to physical proxies like the Canadian Fire Weather Index (FWI). By integrating daily surface air temperature, relative humidity, 10-meter wind speed, and antecedent precipitation, the 7-day maximum FWI (\\(\\text{FWI7x-SM}\\)) tracks fuel moisture dynamics across multiple soil depth layers and demonstrates a strong log-linear relationship (\\(r^2\\)) with total area burned across southeastern Australian forests.\nWhen evaluated using Generalized Extreme Value (GEV) distributions fitted against smoothed Global Mean Surface Temperature (GMST) anomalies, the data reveals a clear, compounding anthropogenic influence:\n\nExtreme Heat as the Primary Engine:\nThe 7-day maximum temperature anomaly (\\(\\text{TX7x}\\)) observed in December 2019 was \\(1^\\circ\\text{C}\\) to \\(2^\\circ\\text{C}\\) hotter than equivalent pre-industrial events. Anthropogenic warming increased the likelihood of a heatwave of this magnitude by at least a factor of 2 (\\(PR \\ge 2\\)). Sensitivity analyses confirm that extreme heat was the single dominant factor driving elevated FWI values, followed by declining relative humidity.\n\n\nAttributable Increase in Fire Risk:\nAcross 11 large climate model ensembles, human-induced climate change has elevated the probability of an \\(\\text{FWI7x-SM}\\) event as severe as 2019/20 by at least 30% (\\(PR \\ge 1.3\\)) relative to 1900. ERA5 reanalysis data shows an even steeper historical trend (\\(PR \\ge 4\\)), though short-term observational records reflect localized decadal drying.\n\n\nThe Absence of a Long-Term Drought Trend:\nNotably, neither long-term observations nor climate models show a statistically significant attributable anthropogenic trend in meteorological drought extremes—whether evaluated over annual scales or during the driest month of the fire season.\n\n\nThe Overlaid Precondition of Natural Climate Modes:\nAnthropogenic warming did not act in isolation. As shown in the Figure 1 Approximately two-thirds of the acute July–December 2019 rainfall deficit was driven by a rare, concurrent alignment of two dominant internal variability modes: a record positive Indian Ocean Dipole (pIOD) and a strongly negative Southern Annular Mode (nSAM), both of which suppress precipitation across southeastern Australia.\n\n\n\n\n\n\n\n\n\nFigure 1"
-  },
-  {
-    "objectID": "posts/welcome/index.html#living-on-a-changing-continent",
-    "href": "posts/welcome/index.html#living-on-a-changing-continent",
-    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
-    "section": "Living on a Changing Continent",
-    "text": "Living on a Changing Continent\nReturning to the primary inquiry posed in the Section 1, the 2019/20 “Black Summer” bushfire season was a compound extreme event where anthropogenic climate change and extreme natural variability converged[cite: 5, 6]. Human-induced global warming provided the thermodynamic fuel by doubling the likelihood of extreme heat waves and increasing overall fire weather risk by at least 30%. Simultaneously, natural climate modes (pIOD and nSAM) delivered the localized precipitation deficit.\n\nA new Common\nLooking forward to a future climate \\(2^\\circ\\text{C}\\) above pre-industrial levels, climate models project that fire weather conditions as severe as 2019/20 will become at least 4 times more likely. While Australia maintains world-class emergency preparedness systems, rising baseline temperatures severely restrict the safe seasonal weather windows available to conduct prescribed hazard-reduction burning. Adapting to an increasingly flammable continent requires moving beyond historical baselines and acknowledging the growing human footprint on extreme climate events"
-  },
-  {
-    "objectID": "posts/welcome/index.html#the-horizon-is-turning-red-framing-the-black-summer-crisis",
-    "href": "posts/welcome/index.html#the-horizon-is-turning-red-framing-the-black-summer-crisis",
-    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
-    "section": "",
-    "text": "During the 2019/20 Austral spring and summer, southeastern Australia experienced an unprecedented fire crisis known as the “Black Summer”. Across the temperate forest ecosystems stretching throughout southeast Australia catastrophic bushfires burned over 19.4 million hectares of land. Dense smoke plumes shrouded major cities, elevating atmospheric fine particulate matter (\\(\\text{PM}_{2.5}\\)) to hazardous levels and triggering a 34% spike in emergency room admissions for severe respiratory distress.\n\n\n\n\n\n\n\n\n\n\n\nTHE 2019/20 COMPOUND CRISIS\n\n\nKey impact metrics across southeastern Australia\n\n\nImpact Dimension\nRecorded Statistic\n\n\n\n\nOperational Domain\nSoutheastern Australia (29°S–40°S, 144°E–155°E)\n\n\nTotal Area Burned\n&gt; 19.4 Million Hectares\n\n\nDirect Fatalities\n34 Lives Lost\n\n\nInfrastructure Impact\n~5,900 Structures Destroyed\n\n\nPublic Health Acute Peak\n+34% Emergency Visits (Respiratory/Asthma)\n\n\n\n\n\nEmergency Department & DISASTER PHILANTHROPY records.\n\n\n\nTable 1\n\n\n\n\nThe severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in Table 1 along with recorded losses. The year 2019 recorded Australia’s highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.\nWhile fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability? Isolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain."
-  },
-  {
-    "objectID": "posts/welcome/index.html#references",
-    "href": "posts/welcome/index.html#references",
-    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
-    "section": "References",
-    "text": "References\n\n\n\nEnjoyed this analysis? Check out my About Page or follow me on GitHub!"
   },
   {
     "objectID": "posts/welcome/index.html#sec-description",
@@ -126,10 +14,45 @@
     "text": "During the 2019/20 Austral spring and summer, southeastern Australia experienced an unprecedented fire crisis known as the “Black Summer”. Across the temperate forest ecosystems stretching throughout southeast Australia catastrophic bushfires burned over 19.4 million hectares of land. Dense smoke plumes shrouded major cities, elevating atmospheric fine particulate matter (\\(\\text{PM}_{2.5}\\)) to hazardous levels and triggering a 34% spike in emergency room admissions for severe respiratory distress.\n\n\n\n\n\n\n\n\n\n\n\nTHE 2019/20 COMPOUND CRISIS\n\n\nKey impact metrics across southeastern Australia\n\n\nImpact Dimension\nRecorded Statistic\n\n\n\n\nOperational Domain\nSoutheastern Australia (29°S–40°S, 144°E–155°E)\n\n\nTotal Area Burned\n&gt; 19.4 Million Hectares\n\n\nDirect Fatalities\n34 Lives Lost\n\n\nInfrastructure Impact\n~5,900 Structures Destroyed\n\n\nPublic Health Acute Peak\n+34% Emergency Visits (Respiratory/Asthma)\n\n\n\n\n\n\n\n\nTable 1: Emergency Department & DISASTER PHILANTHROPY records.\n\n\n\n\nThe severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in Table 1 along with recorded losses. The year 2019 recorded Australia’s highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.\nWhile fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question:\nTo what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability?\nIsolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain."
   },
   {
+    "objectID": "posts/welcome/index.html#decoding-the-signal-in-the-smoke",
+    "href": "posts/welcome/index.html#decoding-the-signal-in-the-smoke",
+    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
+    "section": "Decoding the Signal in the Smoke",
+    "text": "Decoding the Signal in the Smoke\nSeparating the signal of human-induced warming from the background noise of natural climate variability requires a rigorous, multi-step extreme event attribution protocol. To evaluate weather-induced fire risk, atmospheric scientists look beyond single-day fire behavior and turn to physical proxies like the Canadian Fire Weather Index (FWI). By integrating daily surface air temperature, relative humidity, 10-meter wind speed, and antecedent precipitation, the 7-day maximum FWI (\\(\\text{FWI7x-SM}\\)) tracks fuel moisture dynamics across multiple soil depth layers and demonstrates a strong log-linear relationship (\\(r^2\\)) with total area burned across southeastern Australian forests.\nWhen evaluated using Generalized Extreme Value (GEV) distributions fitted against smoothed Global Mean Surface Temperature (GMST) anomalies, the data reveals a clear, compounding anthropogenic influence:\n\nExtreme Heat as the Primary Engine:\nThe 7-day maximum temperature anomaly (\\(\\text{TX7x}\\)) observed in December 2019 was \\(1^\\circ\\text{C}\\) to \\(2^\\circ\\text{C}\\) hotter than equivalent pre-industrial events. Anthropogenic warming increased the likelihood of a heatwave of this magnitude by at least a factor of 2 (\\(PR \\ge 2\\)). Sensitivity analyses confirm that extreme heat was the single dominant factor driving elevated FWI values, followed by declining relative humidity.\n\n\nAttributable Increase in Fire Risk:\nAcross 11 large climate model ensembles, human-induced climate change has elevated the probability of an \\(\\text{FWI7x-SM}\\) event as severe as 2019/20 by at least 30% (\\(PR \\ge 1.3\\)) relative to 1900. ERA5 reanalysis data shows an even steeper historical trend (\\(PR \\ge 4\\)), though short-term observational records reflect localized decadal drying.\n\n\nThe Absence of a Long-Term Drought Trend:\nNotably, neither long-term observations nor climate models show a statistically significant attributable anthropogenic trend in meteorological drought extremes—whether evaluated over annual scales or during the driest month of the fire season.\n\n\nThe Overlaid Precondition of Natural Climate Modes:\nAnthropogenic warming did not act in isolation. As shown in the Figure 1 Approximately two-thirds of the acute July–December 2019 rainfall deficit was driven by a rare, concurrent alignment of two dominant internal variability modes: a record positive Indian Ocean Dipole (pIOD) and a strongly negative Southern Annular Mode (nSAM), both of which suppress precipitation across southeastern Australia.\n\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
     "objectID": "posts/welcome/index.html#limitation-of-the-analysis",
     "href": "posts/welcome/index.html#limitation-of-the-analysis",
     "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
     "section": "Limitation of the analysis",
     "text": "Limitation of the analysis\nA critical insight from the attribution analysis lies in systematic climate model deficiencies. Across the evaluated ensembles, models consistently overstate temperature variability (\\(\\sigma/\\mu\\)) while underestimating the magnitude of observed multi-decadal warming trends in extreme maximum temperatures. Because models under-simulate extreme heat trends, the multi-model consensus of a 30% increase in fire weather risk represents a highly conservative lower bound; the real-world anthropogenic contribution to Australia’s burning skies is likely substantially higher."
+  },
+  {
+    "objectID": "posts/welcome/index.html#living-on-a-changing-continent",
+    "href": "posts/welcome/index.html#living-on-a-changing-continent",
+    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
+    "section": "Living on a Changing Continent",
+    "text": "Living on a Changing Continent\nReturning to the primary inquiry posed in the Section 1, the 2019/20 “Black Summer” bushfire season was a compound extreme event where anthropogenic climate change and extreme natural variability converged[cite: 5, 6]. Human-induced global warming provided the thermodynamic fuel by doubling the likelihood of extreme heat waves and increasing overall fire weather risk by at least 30%. Simultaneously, natural climate modes (pIOD and nSAM) delivered the localized precipitation deficit.\n\nA new Common\nLooking forward to a future climate \\(2^\\circ\\text{C}\\) above pre-industrial levels, climate models project that fire weather conditions as severe as 2019/20 will become at least 4 times more likely. While Australia maintains world-class emergency preparedness systems, rising baseline temperatures severely restrict the safe seasonal weather windows available to conduct prescribed hazard-reduction burning. Adapting to an increasingly flammable continent requires moving beyond historical baselines and acknowledging the growing human footprint on extreme climate events"
+  },
+  {
+    "objectID": "posts/welcome/index.html#references",
+    "href": "posts/welcome/index.html#references",
+    "title": "Ashes in the Wind: Why Australia’s Skies Keep Burning",
+    "section": "References",
+    "text": "References\n\n\n\nEnjoyed this analysis? Check out my About Page or follow me on GitHub!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Aryaman Dhindsa\n\nMaster of Business Analytics Student\n\n\nMonash University, Melbourne, VIC\n\nDetail-oriented Business Analyst and a student at Monash University with a solid foundation in Computer Science and Data Management. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments.\nI have a keen understanding in creating data piplelines and data exploration with a great understanding in statistics foundational topics. Leading projects and exploring new ideas in a broad variety of subjects is my hobby."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Changing Climate or Ancient Cycles?",
+    "section": "",
+    "text": "Ashes in the Wind: Why Australia’s Skies Keep Burning\n\n\n\nTrends\n\nClimate\n\nSummaries\n\n\n\n\n\n\n\n\n\nOct 11, 2026\n\n\nAryaman Dhindsa\n\n\n\n\n\nNo matching items"
   }
 ]
