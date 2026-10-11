@@ -5,19 +5,82 @@ date: "10-11-2026"
 categories: [Trends, Climate, Summaries]
 image: "Image-bush.jpg"
 toc: true
+bibliography: references.bib
 ---
 
 
-## The Horizon Is Turning Red
+## The Horizon Is Turning Red: Framing the Black Summer Crisis
 
-When smoke settles over the continent, it feels as though our summers are being rewritten. The bushfire seasons of recent years haven't just felt hotter—they've felt longer, unyielding, and unpredictable. But is this apocalyptic visual the new baseline of a changing climate, or are we simply witnessing the harsh peaks of Australia's ancient, natural weather cycles?
+During the 2019/20 Austral spring and summer, southeastern Australia experienced an unprecedented fire crisis known as the "Black Summer". Across the temperate forest ecosystems stretching throughout southeast Australia catastrophic bushfires burned over 19.4 million hectares of land. Dense smoke plumes shrouded major cities, elevating atmospheric fine particulate matter ($\text{PM}_{2.5}$) to hazardous levels and triggering a 34% spike in emergency room admissions for severe respiratory distress.
+```{r}
+#| echo: false
+#| message: false
+#| error: false
+#| label: tbl-crisis-loss
+
+library(tibble)
+library(gt)
+compound_crisis_tbl <- tribble(
+  ~"Impact Dimension",        ~"Recorded Statistic",
+  "Operational Domain",       "Southeastern Australia (29°S–40°S, 144°E–155°E)",
+  "Total Area Burned",        "> 19.4 Million Hectares",
+  "Direct Fatalities",        "34 Lives Lost",
+  "Infrastructure Impact",    "~5,900 Structures Destroyed",
+  "Public Health Acute Peak", "+34% Emergency Visits (Respiratory/Asthma)"
+) |> gt() |> 
+    tab_header(
+    title = md("**THE 2019/20 COMPOUND CRISIS**"),
+    subtitle = "Key impact metrics across southeastern Australia"
+  ) |> tab_source_note(
+    source_note = glue::glue("*Source:* {@Oldenborgh2021}; Emergency Department & DISASTER PHILANTHROPY records.")
+  ) %>%
+  # 2. FORCE STYLING ON SOURCE NOTE TO PREVENT INVISIBILITY
+  tab_style(
+    style = list(
+      cell_text(color = "#3D405B", size = px(12), style = "italic"),
+      cell_fill(color = "#F2CC8F")
+    ),
+    locations = cells_source_notes()
+  )
+# Display the table
+compound_crisis_tbl 
+
+```
+
+The severity of the event was underpinned by compounding climatic extremes, impacted areas are shown in @tbl-crisis-loss along with recorded losses. The year 2019 recorded Australia's highest national mean annual temperature and lowest total rainfall since standardized instrumental recording began in 1910 and 1900, respectively. This multi-year rainfall deficit severely depleted deep-layer volumetric soil moisture and forest fuel moisture content prior to the peak fire season.
+
+While fire is an ancient feature of the Australian continent, the sheer spatial extent, intensity, and early onset of the 2019/20 season challenged existing disaster management systems and raised a critical research question: To what extent was the weather-induced risk of this extreme bushfire season exacerbated by anthropogenic climate change versus natural climate variability? Isolating this human signature requires evaluating meteorological drivers—specifically extreme heat, precipitation deficits, and composite fire weather indices—across the affected domain.
 
 ## Decoding the Signal in the Smoke
 
-Stripping away the noise requires looking at decades of historical weather observations, ocean oscillations, and regional temperature anomalies. When we place long-term climate trends alongside localized weather events, clear patterns emerge. The data reveals how shifts in global ocean drivers interact with drying soil profiles, turning routine seasonal variability into unprecedented fire weather across southern Australia.
+Separating the signal of human-induced warming from the background noise of natural climate variability requires a rigorous, multi-step extreme event attribution protocol. To evaluate weather-induced fire risk, atmospheric scientists look beyond single-day fire behavior and turn to physical proxies like the Canadian Fire Weather Index (FWI). By integrating daily surface air temperature, relative humidity, 10-meter wind speed, and antecedent precipitation, the 7-day maximum FWI ($\text{FWI7x-SM}$) tracks fuel moisture dynamics across multiple soil depth layers and demonstrates a strong log-linear relationship ($r^2$) with total area burned across southeastern Australian forests.
+
+When evaluated using Generalized Extreme Value (GEV) distributions fitted against smoothed Global Mean Surface Temperature (GMST) anomalies, the data reveals a clear, compounding anthropogenic influence:
+
+### Extreme Heat as the Primary Engine: 
+The 7-day maximum temperature anomaly ($\text{TX7x}$) observed in December 2019 was $1^\circ\text{C}$ to $2^\circ\text{C}$ hotter than equivalent pre-industrial events. Anthropogenic warming increased the likelihood of a heatwave of this magnitude by at least a factor of 2 ($PR \ge 2$). Sensitivity analyses confirm that extreme heat was the single dominant factor driving elevated FWI values, followed by declining relative humidity.
+
+### Attributable Increase in Fire Risk: 
+Across 11 large climate model ensembles, human-induced climate change has elevated the probability of an $\text{FWI7x-SM}$ event as severe as 2019/20 by at least 30% ($PR \ge 1.3$) relative to 1900. ERA5 reanalysis data shows an even steeper historical trend ($PR \ge 4$), though short-term observational records reflect localized decadal drying.
+
+### The Absence of a Long-Term Drought Trend:
+Notably, neither long-term observations nor climate models show a statistically significant attributable anthropogenic trend in meteorological drought extremes—whether evaluated over annual scales or during the driest month of the fire season.
+
+### The Overlaid Precondition of Natural Climate Modes:
+Anthropogenic warming did not act in isolation. Approximately two-thirds of the acute July–December 2019 rainfall deficit was driven by a rare, concurrent alignment of two dominant internal variability modes: a record positive Indian Ocean Dipole (pIOD) and a strongly negative Southern Annular Mode (nSAM), both of which suppress precipitation across southeastern Australia.
+
+A critical insight from the attribution analysis lies in systematic climate model deficiencies. Across the evaluated ensembles, models consistently overstate temperature variability ($\sigma/\mu$) while underestimating the magnitude of observed multi-decadal warming trends in extreme maximum temperatures. Because models under-simulate extreme heat trends, the multi-model consensus of a 30% increase in fire weather risk represents a highly conservative lower bound; the real-world anthropogenic contribution to Australia's burning skies is likely substantially higher.
 
 ## Living on a Changing Continent
 
 Understanding the true drivers of these fires isn't just an academic exercise—it is critical for survival and land management. The data confirms that while natural cycles will always bring dry spells, underlying climate trends are amplifying their severity. Adapting to this reality means re-evaluating our relationship with the land, refining our predictive models, and building resilience for the seasons ahead.
+
+### After effects of these events
+
+
+## References
+:::{#refs}
+
+:::
 
 *Enjoyed this analysis? Check out my [About Page](../about.qmd) or follow me on [GitHub](https://github.com/adhi0021)!*

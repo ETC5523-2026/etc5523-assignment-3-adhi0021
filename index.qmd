@@ -1,6 +1,6 @@
 ---
 title: "A Changing Climate or Ancient Cycles?"
-subtitle: "Decoding the data behind Australia's fiercest bushfire seasons."
+subtitle: "Decoding the data behind Australia's fiercest bushfire seasons and what it means for bushfire prone regions."
 title-block-banner: "#81B29A"
 title-block-banner-color: "#FFFFFF"
 listing:
