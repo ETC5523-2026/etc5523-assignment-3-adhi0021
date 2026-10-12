@@ -1,13 +1,35 @@
 ---
 title: "About"
-image: profile.jpg
+image: Images/profile-aryaman.jpeg
 about:
-  template: jolla
+  template: solana
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
+      text: GitHub
+      href: https://github.com/aryamandhindsa010
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/aryaman-dhindsa
+---
+<style>
+  img {
+    border-radius: 22.5%; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+</style>
+
+::: {.index-hero-title}
+# Aryaman Dhindsa
+::: {.subtitle}
+Master of Business Analytics Student 
+:::
+:::
+
+
+Monash University, Melbourne, VIC
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Detail-oriented Business Analyst and a student at [Monash University](https://www.monash.edu/) with a solid foundation in Computer Science and Data Management. Skilled in R (tidyverse), SQL, Power BI, Advanced Excel, and Python for statistical modeling and process optimization. Proven track record in project leadership, translating complex data into actionable business insights, and operating effectively in fast-paced environments.
+
+I have a keen understanding in creating data piplelines and data exploration with a great understanding in statistics foundational topics. Leading projects and exploring new ideas in a broad variety of subjects is my hobby.

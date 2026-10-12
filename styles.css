@@ -1,4 +1,140 @@
-/* css styles */
-.navbar-dark, .quarto-title-banner {
-  background-color: #006DAE;
+/* Custom Palette Variables */
+:root {
+  --bg-main: #F4F1DE;
+  --text-main: #3D405B;
+  --title-bg: #81B29A;
+  --accent-terracotta: #E07A5F;
+  --accent-sand: #F2CC8F;
+  --header-bg: var(--title-bg);
+}
+
+/* Base Body Styling */
+body {
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-main);
+}
+
+/* Navbar Customization */
+.navbar {
+  background-color: var(--text-main) !important;
+  border-bottom: 3px solid var(--accent-terracotta);
+}
+
+.navbar .nav-link, .navbar .navbar-brand {
+  color: #F4F1DE !important;
+}
+
+/* Title Banner for index.qmd */
+.index-hero-title {
+  background-color: var(--title-bg);
+  color: #FFFFFF !important;
+  padding: 2.5rem 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 6px rgba(61, 64, 91, 0.1);
+}
+
+.index-hero-title h1 {
+  color: #FFFFFF !important;
+  margin: 0 0 0.5rem 0;
+  font-size: 2.25rem;
+  font-weight: 700;
+}
+
+.index-hero-title .subtitle {
+  color: #F4F1DE;
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+/* Buttons and Card Containers */
+.btn-primary {
+  background-color: var(--accent-terracotta) !important;
+  border-color: var(--accent-terracotta) !important;
+  color: #FFFFFF !important;
+}
+
+.sidebar-box {
+  background-color: var(--accent-sand);
+  padding: 1.25rem;
+  border-radius: 8px;
+  color: var(--text-main);
+}
+
+img {
+  border-radius: 22.5px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.quarto-title-banner {
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #81B29A;
+}
+
+.quarto-categories {
+  color: #3D405B;
+}
+
+.callout.callout-titled > .callout-header {
+  padding-top: .2em;
+  margin-bottom: -0.2em;
+  background-color: darksalmon !important;
+}
+
+div.callout-note.callout {
+  border-left-color: #3D405B;
+}
+
+/* --- gt Table Fixes --- */
+.gt_table {
+  border-radius: 22.5px !important;
+  overflow: hidden !important;
+  border: 1px solid #D8C3A5 !important;
+  margin: 1.5rem auto !important;
+  background-color: transparent !important;
+}
+
+/* Header container (Title & Subtitle) */
+.gt_heading {
+  background-color: #81B29A !important;
+  border-bottom: none !important;
+  padding: 5px !important;
+}
+
+.gt_title {
+  color: #FFFFFF !important;
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+  padding-bottom: 5px;
+}
+
+.gt_subtitle {
+  color: #F4F1DE !important;
+  font-size: 1rem !important;
+}
+
+/* Column Labels Row */
+.gt_col_headings {
+  background-color: #3D405B !important;
+  border-top: none !important;
+}
+
+.gt_col_heading {
+  color: #FFFFFF !important;
+  font-weight: bold !important;
+  padding: 10px 14px !important;
+  border-bottom: 2px solid #E07A5F !important;
+  background-color: #3D405B !important;
+}
+
+.no-border img {
+  border-radius: 0 !important; /* Optional: resets squircle radius if desired */
 }
